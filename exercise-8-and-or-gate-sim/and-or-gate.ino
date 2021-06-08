@@ -47,7 +47,7 @@ void loop()
   
   // execute AND GATE if user inputs 1
   if (switchGate == 1) {
-    Serial.println("\nAND GATE selected!\n"); // prints the selected gate
+    Serial.println("\nAND gate selected!\n"); // prints the selected gate
     
     // turn on green Led only if 2 switches are on
 	if ((switchOneStatus == HIGH) && (switchTwoStatus == HIGH)) {
@@ -64,7 +64,7 @@ void loop()
   
   // execute OR GATE if user inputs 2
   else if (switchGate == 2) {
-    Serial.println("\nOR GATE selected!\n"); // prints the selected gate
+    Serial.println("\nOR gate selected!\n"); // prints the selected gate
 
     // if either of the 2 switches are ON turn on greenLed
     if ((switchOneStatus == HIGH) || (switchTwoStatus == HIGH)){
@@ -77,11 +77,11 @@ void loop()
       digitalWrite(greenLedPin, LOW);
     } // else
     
-  } // else if
+  } // else if switch gate
   
   else {
 	Serial.println("Please select a valid number!\n");
-  } // else
+  } // else switch gate
   
 } // void loop
 
