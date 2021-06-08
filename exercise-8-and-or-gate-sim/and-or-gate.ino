@@ -8,7 +8,7 @@
  * History:
  * Date:		Description: 						Programmer:
  * 06/07/2021	Added the necessary components		ZAND
- * 06/08/2021	Added the code and do some testing	ZAND
+ * 06/08/2021	Added the code and did some testing	ZAND
  */
 
 // initialize variables
