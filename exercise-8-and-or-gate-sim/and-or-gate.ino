@@ -73,14 +73,14 @@ void loop()
     } // if switch status
     
     else { // turn off green and turn on red
-      digitalWrite(redLedPin, HIGH);
-      digitalWrite(greenLedPin, LOW);
+      digitalWrite(redLedPin, HIGH); // turn on red led
+      digitalWrite(greenLedPin, LOW); // turn off green led
     } // else
     
   } // else if switch gate
   
   else {
-	Serial.println("Please select a valid number!\n");
+	Serial.println("\nPlease enter a valid number!\n");
   } // else switch gate
   
 } // void loop
