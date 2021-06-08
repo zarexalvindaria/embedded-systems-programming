@@ -7,7 +7,7 @@
  * Author: Zarex Alvin Daria (ZAND)
  * History:
  * Date:		Description: 						Programmer:
- * 06/07/2021	Added the necessary componenets		ZAND
+ * 06/07/2021	Added the necessary components		ZAND
  * 06/08/2021	Added the code and do some testing	ZAND
  */
 
@@ -46,7 +46,8 @@ void loop()
   switchTwoStatus = digitalRead(switchTwo); // get switchTwo status
   
   // execute AND GATE if user inputs 1
-  if (switchGate == 1) { 
+  if (switchGate == 1) {
+    Serial.println("\nAND GATE selected!\n"); // prints the selected gate
     
     // turn on green Led only if 2 switches are on
 	if ((switchOneStatus == HIGH) && (switchTwoStatus == HIGH)) {
@@ -63,6 +64,7 @@ void loop()
   
   // execute OR GATE if user inputs 2
   else if (switchGate == 2) {
+    Serial.println("\nOR GATE selected!\n"); // prints the selected gate
 
     // if either of the 2 switches are ON turn on greenLed
     if ((switchOneStatus == HIGH) || (switchTwoStatus == HIGH)){
@@ -78,7 +80,7 @@ void loop()
   } // else if
   
   else {
-	Serial.println("Please select a valid number!/n");
+	Serial.println("Please select a valid number!\n");
   } // else
   
 } // void loop
