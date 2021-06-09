@@ -10,4 +10,3 @@ This program generates a menu and allows the user to  choose between the two gat
 
 ### Tinkercad Link
 [Link to the Circuit Proto](https://www.tinkercad.com/things/aXNHO8Wlodh-exercise-8-and-or-gate-simulator)
-
