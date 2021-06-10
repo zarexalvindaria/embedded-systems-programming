@@ -1,4 +1,4 @@
 # Programming Embedded Systems (PEMBEDS) Projects
 
-These are the projects I made under my Programming Embedded Systems class @ Asia Pacific College. Used Tinkercad to program an Arduino microcontroller.
+Projects I made under my Programming Embedded Systems class @ Asia Pacific College. Used [Tinkercad](https://www.tinkercad.com) to simulate the projects since we're on Blended Learning mode due to COVID-19.
 
