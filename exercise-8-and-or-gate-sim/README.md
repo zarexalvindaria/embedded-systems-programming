@@ -14,7 +14,8 @@ This program generates a menu and allows the user to  choose between the two gat
 
 ## Preview
 
-![alt text](https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-8-and-or-gate-sim/img/and-or-gate-sim-preview.png "AND-OR gate simulator")
+![alt text](https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-8-and-or-gate-sim/img/and-or-gate-sim-preview.gif "AND-OR gate simulator")
 
 ### Tinkercad Link
 [Link to the Circuit Proto](https://www.tinkercad.com/things/aXNHO8Wlodh-exercise-8-and-or-gate-simulator)
+
