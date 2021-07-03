@@ -23,5 +23,5 @@ This project simulates a 4-way traffic light. The sequence of the traffic light,
 
 ## Tinkercad Link
 
-[Link to the Circuit Proto](https://www.tinkercad.com/things/d2ZVxUzZvO5-exercise-5-led-dimmer)
+[Link to the Circuit Proto](https://www.tinkercad.com/things/k6dcyBNQuvZ-copy-of-4-way-traffic-light-v2-zarexalvindaria/editel)
 
