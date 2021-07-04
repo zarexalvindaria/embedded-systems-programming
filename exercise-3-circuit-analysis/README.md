@@ -6,7 +6,7 @@
 
 | Problem                                                      | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q1.jpg"> | V = IR<br/>Volts = Current * Resistance<br/>Volts = 6 V Resistance = 2 Ω I = ?<br/>I = V/R<br/>I = 6V / 2 Ω<br/>I = 3A |
+| <img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q1.jpg"> | V = IR<br/>Volts = Current * Resistance<br/>Volts = 6 V Resistance = 2 Ω <br/>I = ?<br/>I = V/R<br/>I = 6V / 2 Ω<br/>I = 3A |
 
 
 
