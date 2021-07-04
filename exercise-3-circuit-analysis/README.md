@@ -30,4 +30,11 @@
 
 4. Find the total resistance RT and total current IT if the voltage source is 5 V.
 
-<img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q4.jpg">
+| Problem                                                      | Solution                             |
+| ------------------------------------------------------------ | ------------------------------------ |
+| <img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q4.jpg"> |R1 = 5 Ω<br/> R2 = 4 Ω <br/>R3 = 10 Ω <br/><br/>R4 = 8 Ω R3+R4 = 18 Ω
+<br/><br/>R2 \|\|18 Ω = (4 Ω * 18 Ω)/ (4 Ω + 18 Ω)<br/><br/>R2 \|\|18 Ω = (72 Ω)/ (22 Ω)<br/>R2 \|\|18 Ω = 3.27 Ω<br/>RT = 5 Ω + 3.27 Ω<br/>**RT = 8.27 Ω**<br/><br/>IT = ?<br/>IT = VT/RT<br/>IT = 5V/8.27 Ω<br/>**IT = 0.60 A**|
+ 
+
+
+
