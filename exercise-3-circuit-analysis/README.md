@@ -24,13 +24,13 @@
 
 | Problem                                                      | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q3.jpg"> | V=IR<br/>I1 = 0.2A R1 = 8 Ω<br/>V1 = I1*R1<br/>V1 = 0.2A * 8 Ω<br/>**V1 = 1.6 V**<br/>Since V1 = VT, then **V2 and VT  = 1.6V**<br/>**V2 = 1.6V**<br/>I2 = ?<br/>R2 = 4 Ω<br/>I2 = V2/R2<br/>I2 = 1.6V/4 Ω<br/>**I2 = 0.4A** |
+| <img style="width:80%" src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q3.jpg"> | V=IR<br/>I1 = 0.2A R1 = 8 Ω<br/>V1 = I1*R1<br/>V1 = 0.2A * 8 Ω<br/>**V1 = 1.6 V**<br/>Since V1 = VT, then **V2 and VT  = 1.6V**<br/>**V2 = 1.6V**<br/>I2 = ?<br/>R2 = 4 Ω<br/>I2 = V2/R2<br/>I2 = 1.6V/4 Ω<br/>**I2 = 0.4A** |
 
 
 
 4. Find the total resistance RT and total current IT if the voltage source is 5 V.
 
-| Problem                                                      | Solution                                                     |
+| Problem                                                      | Solutio                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q4.jpg"> | R1 = 5 Ω<br/> R2 = 4 Ω <br/>R3 = 10 Ω <br/><br/>R4 = 8 Ω R3+R4 = 18 Ω<br/><br/>R2 \|\|18 Ω = (4 Ω * 18 Ω)/ (4 Ω + 18 Ω)<br/><br/>R2 \|\|18 Ω = (72 Ω)/ (22 Ω)<br/>R2 \|\|18 Ω = 3.27 Ω<br/>RT = 5 Ω + 3.27 Ω<br/>**RT = 8.27 Ω**<br/><br/>IT = ?<br/>IT = VT/RT<br/>IT = 5V/8.27 Ω<br/>**IT = 0.60 A** |
+| <img style="width:80%" src="https://raw.githubusercontent.com/zarexalvindaria/pembeds-projects/main/exercise-3-circuit-analysis/img/ca_q4.jpg"> | R1 = 5 Ω<br/> R2 = 4 Ω <br/>R3 = 10 Ω <br/><br/>R4 = 8 Ω R3+R4 = 18 Ω<br/><br/>R2 \|\|18 Ω = (4 Ω * 18 Ω)/ (4 Ω + 18 Ω)<br/><br/>R2 \|\|18 Ω = (72 Ω)/ (22 Ω)<br/>R2 \|\|18 Ω = 3.27 Ω<br/>RT = 5 Ω + 3.27 Ω<br/>**RT = 8.27 Ω**<br/><br/>IT = ?<br/>IT = VT/RT<br/>IT = 5V/8.27 Ω<br/>**IT = 0.60 A** |
 
