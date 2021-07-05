@@ -133,17 +133,18 @@ VR2R3  = (0.005524 A)(222.22  Ω)<br/>
 Σ VR4R5R6, VR2R3, VR1= 1.9496 V + 1.2275 V + 1.8229 V<br/>
 **Σ VR4R5R6, VR2R3, VR1= 5 V**
 
-
+--------
 
 ### Screenshots
 
-a. VR4R5R6
+**a. VR4R5R6**
 
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q2-ss-a.jpg?raw=true" width=70% />
 
+**b. Σ VR4R5R6, VR2R3**
 
-b. Σ VR4R5R6, VR2R3
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q2-ss-b.jpg?raw=true" width=70% />
 
+**c. Σ VR4R5R6, VR2R3, VR1**
 
-
-c. Σ VR4R5R6, VR2R3, VR1
-
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q2-ss-c.jpg?raw=true" width=70% />
