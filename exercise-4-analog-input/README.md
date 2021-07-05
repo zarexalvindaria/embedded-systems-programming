@@ -55,6 +55,22 @@ VR4R5  = (0.00646 A)(323.08 Ω)<br/><mark>**VR4R5  = 2.087 V**</mark>
 ΣVR3, VR4R5, VR1R2  = (VR1R2) + (VR3) + (VR4R5)<br/>
 ΣVR3, VR4R5, VR1R2 = 1.615 V + 1.292 V + 2.087 V<br/><mark>**ΣVR3, VR4R5, VR1R2  = 4.995 V (~5V)**</mark><br/>
 
+---
+
+### Screenshots:
+
+a. VR4R5:
+
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q1-ss-a.jpg?raw=true" style="zoom: 50%;" />
+
+b. Σ VR4R5, VR3
+
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q1-ss-b.jpg?raw=true" style="zoom: 50%;" />
+
+c. Σ VR4R5, VR3, VR1R2
+
+<img src="https://github.com/zarexalvindaria/pembeds-projects/blob/main/exercise-4-analog-input/img/ai-q1-ss-c.jpg?raw=true" style="zoom: 50%;" />
+
 
 
 2. Given the circuit below. Compute the total resistance, total current and voltage drop across VR4R5R6, VR2R3 and VR1. Compare it against the voltage measured multimeters and using Arduino (TinkerCAD). Please show solution and screen shot the circuit which includes the multimeter’s readings and Arduino readings on both voltage drops and total current.
