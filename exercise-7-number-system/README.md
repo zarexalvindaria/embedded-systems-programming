@@ -295,10 +295,112 @@
 
 
 
-8. **110110010110111<sub>2</sub>**
+8. **110110010110111<sub>2</sub>** &rarr; 6CB7<sub>16</sub>
+
+<table>
+	<tr>
+        <th rowspan="2">Place values</th>
+        <th colspan="3">16<sup>3</sup></th>
+        <th colspan="4">16<sup>2</sup></th>
+        <th colspan="4">16<sup>1</sup></th>
+        <th colspan="4">16<sup>0</sup></th>
+	</tr>
+	<tr>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+	</tr>
+	<tr>
+        <td><strong>Binary</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+	</tr>
+	<tr>
+        <td rowspan="3" style="vertical-align:center"><strong>Conversion</strong></td>
+        <td>4 * 1</td>
+        <td>2 * 1</td>
+        <td>1 * 0</td>
+        <td>8 * 1</td>
+        <td>4 * 1</td>
+        <td>2 * 0</td>
+        <td>1 * 0</td>
+        <td>8 * 1</td>
+        <td>4 * 0</td>
+        <td>2 * 1</td>
+        <td>1 * 1</td>
+        <td>8 * 0</td>
+        <td>4 * 1</td>
+        <td>2 * 1</td>
+        <td>1 * 1</td>
+	</tr>
+	<tr>
+        <td>4</td>
+        <td>2</td>
+        <td>0</td>
+        <td>8</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>8</td>
+        <td>0</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+	</tr>
+    <tr>
+        <td colspan="3">6</td>
+        <td colspan="4">12</td>
+        <td colspan="4">11</td>
+        <td colspan="4">7</td>
+	</tr>
+    <tr>
+        <td><strong>Equivalent</strong></td>
+        <td colspan="3">6</td>
+        <td colspan="4">C</td>
+        <td colspan="4">B</td>
+        <td colspan="4">7</td>
+	</tr>
+    <tr>
+        <td><strong>Hexa</strong></td>
+        <td colspan="16"><strong>6CB7<sub>16</sub></strong></td>
+	</tr>
+</table>
+
+**Answer:** 6CB7<sub>16</sub>
+
+
 
 
 9. **3456<sub>8</sub>**
 
 
 10. **FE1B<sub>16</sub>**
+
