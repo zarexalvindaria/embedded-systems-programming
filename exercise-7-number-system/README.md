@@ -67,12 +67,12 @@
     </tr>
     <tr style="text-align:center">
         <td rowspan="3"><strong>Binary</strong></td>
-        <td>4</td>
-        <td>2</td>
+        <td>1</td>
+        <td>1</td>
 		<td>1</td>
-        <td>8</td>
-        <td>4</td>
-        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
         <td>1</td>
     </tr>
     <tr style="text-align:center">
