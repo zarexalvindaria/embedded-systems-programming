@@ -199,14 +199,106 @@
 
 
 
-7. **111010100011<sub>2</sub>**
+7. **111010100011<sub>2</sub>** &rarr; 7243<sub>8</sub>
+<table>
+	<tr>
+        <th rowspan="2">Place values</th>
+        <th colspan="4">16<sup>2</sup></th>
+        <th colspan="4">16<sup>1</sup></th>
+        <th colspan="4">16<sup>0</sup></th>
+	</tr>
+	<tr>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+	</tr>
+	<tr>
+        <td><strong>Binary</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+	</tr>
+	<tr>
+        <td rowspan="4" style="vertical-align:center"><strong>Conversion</strong></td>
+        <td>8 * 1</td>
+        <td>4 * 1</td>
+        <td>2 * 1</td>
+        <td>1 * 0</td>
+        <td>8 * 1</td>
+        <td>4 * 0</td>
+        <td>2 * 1</td>
+        <td>1 * 0</td>
+        <td>8 * 0</td>
+        <td>4 * 0</td>
+        <td>2 * 1</td>
+        <td>1 * 1</td>
+	</tr>
+	<tr>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>0</td>
+        <td>8</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>1</td>
+	</tr>
+	<tr>
+        <td colspan="4">14 * 16<sup>2</sup></td>
+        <td colspan="4">10 * 16<sup>1</sup></td>
+        <td colspan="4">3 * 16<sup>0</sup></td>
+	</tr>
+    <tr>
+        <td colspan="4">3584</td>
+        <td colspan="4">160</td>
+        <td colspan="4">3</td>
+	</tr>
+    <tr>
+        <td><strong>Decimal</strong></td>
+        <td colspan="16"><strong>3747<sub>10</sub></strong></td>
+	</tr>
+</table>
+
+**Converting from 3747<sub>10</sub> to Octal:**
+
+| Div by 8 | Quotient | Remainder |
+| :------: | :------: | :-------: |
+|  3747/8  |   468    |     3     |
+|  468/8   |    58    |     4     |
+|   58/8   |    7     |     2     |
+|    7     |    0     |     7     |
+
+**Answer:** 7243<sub>8</sub> <em>(Read remainder from the bottom)</em>
 
 
 
-8. 110110010110111<sub>2</sub>
+
+8. **110110010110111<sub>2</sub>**
 
 
-9. 3456<sub>8</sub>
+9. **3456<sub>8</sub>**
 
 
-10. FE1B<sub>16</sub>
+10. **FE1B<sub>16</sub>**
