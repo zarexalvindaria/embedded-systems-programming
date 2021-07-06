@@ -47,6 +47,7 @@
 
 
 
+
 4. **1111011<sub>2</sub>** &rarr; 123<sub>10</sub>
 
 <table style="text-align:center">
@@ -122,6 +123,7 @@
 
 
 
+
 5. **653<sub>8</sub>** &rarr; **427<sub>10</sub>**
 
 <table>
@@ -154,7 +156,9 @@
     </tr>
 </table>
 
-<strong>Answer:</strong> 427<sub>10</sub><br/>
+<strong>Answer:</strong> 427<sub>10</sub>
+
+
 
 
 6. **E1D<sub>16 </sub>&rarr;** 3613<sub>10</sub> 
@@ -194,7 +198,7 @@
     </tr>
 </table>
 
-<strong>Answer:</strong> 3613<sub>10</sub><br/>
+<strong>Answer:</strong> 3613<sub>10</sub>
 
 
 
@@ -448,7 +452,8 @@
 
 
 
-10. **FE1B<sub>16</sub>**
+
+10. **FE1B<sub>16</sub>** &rarr; **1111 1110 0001 1011<sub>2</sub>**
 
 <table>
     <tr style="align-text:center">
