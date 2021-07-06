@@ -4,11 +4,24 @@
 
 
 
-1. 71<sub>10</sub>
+1. **71<sub>10</sub>**					&rarr;					**1000111<sub>2</sub>**
 
-   
+| Div by 2 | Quotient | Remainder |
+| :------: | :------: | :-------: |
+|   71/2   |    35    |     1     |
+|   35/2   |    17    |     1     |
+|   17/2   |    8     |     1     |
+|   8/2    |    4     |     0     |
+|   4/2    |    2     |     0     |
+|   2/2    |    1     |     0     |
+|   1/2    |    0     |     1     |
 
-2. 398<sub>10</sub>
+<center><strong>Answer:</strong>  1000111<sub>2</sub> <em>(Read remainder from the bottom)</em></center>
+
+
+
+
+2. **398<sub>10</sub>**
 
    
 
