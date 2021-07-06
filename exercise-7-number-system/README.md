@@ -4,7 +4,7 @@
 
 
 
-1. **71<sub>10</sub>**					&rarr;					**1000111<sub>2</sub>**
+1. **71<sub>10</sub>** &rarr; **1000111<sub>2</sub>**
 
 | Div by 2 | Quotient | Remainder |
 | :------: | :------: | :-------: |
@@ -16,41 +16,59 @@
 |   2/2    |    1     |     0     |
 |   1/2    |    0     |     1     |
 
-<center><strong>Answer:</strong>  1000111<sub>2</sub> <em>(Read remainder from the bottom)</em></center>
+<strong>Answer:</strong>  1000111<sub>2</sub> <em>(Read remainder from the bottom)</em>
 
 
 
 
-2. **398<sub>10</sub>**
+2. **398<sub>10</sub>**  &rarr;  **616<sub>8</sub>**
 
-   
 
-3. 3654<sub>10</sub>
+| Div by 8 | Quotient | Remainder |
+| :------: | :------: | :-------: |
+|  398/8   |    49    |     6     |
+|  498/8   |    6     |     1     |
+|   6/8    |    0     |     6     |
 
-   
+**Answer: ** 616<sub>8</sub> <em>(Read remainder from the bottom)</em>
 
-4. 1111011<sub>2</sub>
 
-   
 
-5. 653<sub>8</sub>
 
-   
+2. **3654<sub>10</sub>** &rarr; **E46<sub>16</sub>**
 
-6. E1D<sub>16</sub>
+| Div by 16 | Quotient | Remainder | Equivalent |
+| :-------: | :------: | :-------: | :--------: |
+|  3654/16  |   228    |     6     |     6      |
+|  228/16   |    14    |     4     |     4      |
+|   14/16   |    0     |    15     |     E      |
 
-   
+**Answer:** E46<sub>16</sub> <em>(Read remainder from the bottom)</em>
 
-7. 111010100011<sub>2</sub>
 
-   
 
-8. 110110010110111<sub>2</sub>
-
-   
-
-9. 3456<sub>8</sub>
+3. **1111011<sub>2</sub>**
 
    
 
-10. FE1B<sub>16</sub>
+4. 653<sub>8</sub>
+
+   
+
+5. E1D<sub>16</sub>
+
+   
+
+6. 111010100011<sub>2</sub>
+
+   
+
+7. 110110010110111<sub>2</sub>
+
+   
+
+8. 3456<sub>8</sub>
+
+   
+
+9. FE1B<sub>16</sub>
