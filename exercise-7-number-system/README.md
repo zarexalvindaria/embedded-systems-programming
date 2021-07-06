@@ -49,7 +49,7 @@
 
 4. **1111011<sub>2</sub>** &rarr; 123<sub>10</sub>
 
-<table>
+<table style="text-align:center">
     <tr style="text-align:center">
     	<th>Place values</th>
         <th colspan="3">16<sup>1</sup></th>
@@ -117,11 +117,12 @@
     	<td colspan="7">123<sub>10</sub></td>
     </tr>
 </table>
+
 **Answer:** 123<sub>10</sub>
 
 
 
-5. 653<sub>8</sub>
+5. **653<sub>8</sub>**
 
    
 
