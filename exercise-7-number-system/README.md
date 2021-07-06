@@ -397,6 +397,7 @@
         <td colspan="16"><strong>6CB7<sub>16</sub></strong></td>
 	</tr>
 </table>
+
 **Answer:** 6CB7<sub>16</sub>
 
 
@@ -513,6 +514,7 @@
     	<td colspan="12"><strong>1111111000011011<sub>2</sub></strong></td>
     </tr>
 </table>
+
 **Answer:** 1111 1110 0001 1011<sub>2</sub>
 
 
