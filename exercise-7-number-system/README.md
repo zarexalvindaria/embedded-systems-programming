@@ -398,7 +398,7 @@
 
 
 
-9. **3456<sub>8</sub>**
+9. **3456<sub>8</sub>** &rarr; **111 0010 11102<sub>2</sub>**
 
 <table>
     <tr style="align-text:center">
@@ -444,9 +444,70 @@
     </tr>
 </table>
 
-**Answer:** 111 0010 11102<sub>2</sub>
+**Answer:** 111 0010 1110<sub>2</sub>
 
 
 
 10. **FE1B<sub>16</sub>**
+
+<table>
+    <tr style="align-text:center">
+        <th><strong>Hexa</strong></th>
+        <th colspan="4"><strong>F</strong></th>
+        <th colspan="4"><strong>E</strong></th>
+        <th colspan="4"><strong>1</strong></th>
+        <th colspan="4"><strong>B</strong></th>
+    </tr>
+    <tr style="align-text:center">
+        <th><strong>Hexa</strong></th>
+        <th colspan="4"><strong>15</strong></th>
+        <th colspan="4"><strong>14</strong></th>
+        <th colspan="4"><strong>1</strong></th>
+        <th colspan="4"><strong>11</strong></th>
+    </tr>
+    <tr>
+        <td><strong>Place values</strong></td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong></strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Binary</strong></td>
+    	<td colspan="12"><strong>1111111000011011<sub>2</sub></strong></td>
+    </tr>
+</table>
+
+**Answer:** 1111 1110 0001 1011<sub>2</sub>
 
