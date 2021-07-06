@@ -55,15 +55,15 @@
         <th colspan="3">16<sup>1</sup></th>
         <th colspan="4">16<sup>0</sup></th>
     </tr>
-    <tr style="text-align:center">
+    <tr>
         <td></td>
-        <td>4</td>
-        <td>2</td>
-		<td>1</td>
-        <td>8</td>
-        <td>4</td>
-        <td>2</td>
-        <td>1</td>
+        <td style="text-align:center">4</td>
+        <td style="text-align:center">2</td>
+		<td style="text-align:center">1</td>
+        <td style="text-align:center">8</td>
+        <td style="text-align:center">4</td>
+        <td style="text-align:center">2</td>
+        <td style="text-align:center">1</td>
     </tr>
     <tr style="text-align:center">
         <td rowspan="3"><strong>Binary</strong></td>
@@ -85,28 +85,28 @@
         <td>1*1</td>
     </tr>
     <tr style="text-align:center">
-        <td>4</td>
-        <td>2</td>
-		<td>1</td>
-        <td>8</td>
-        <td>0</td>
-        <td>2</td>
-        <td>1</td>
+        <td style="text-align:center">4</td>
+        <td style="text-align:center">2</td>
+		<td style="text-align:center">1</td>
+        <td style="text-align:center">8</td>
+        <td style="text-align:center">0</td>
+        <td style="text-align:center">2</td>
+        <td style="text-align:center">1</td>
     </tr>
     <tr style="text-align:center">
         <td></td>
-        <td colspan="3">7</td>
-        <td colspan="4">11</td>
+        <td style="text-align:center" colspan="3">7</td>
+        <td style="text-align:center" colspan="4">11</td>
     </tr>
     <tr style="text-align:center">
         <td></td>
-        <td colspan="3">7*16<sup>1</sup></td>
-        <td colspan="4">11*16<sup>0</sup></td>
+        <td style="text-align:center" colspan="3">7*16<sup>1</sup></td>
+        <td style="text-align:center" colspan="4">11*16<sup>0</sup></td>
     </tr>
     <tr style="text-align:center">
         <td></td>
-        <td colspan="3">7*16</td>
-        <td colspan="4">11*1</td>
+        <td style="text-align:center" colspan="3">7*16</td>
+        <td style="text-align:center" colspan="4">11*1</td>
     </tr>
     <tr>
         <td style="text-align:center" rowspan="2"><strong>Decimal</strong></td>
