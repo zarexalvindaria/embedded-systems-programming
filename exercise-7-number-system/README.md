@@ -513,6 +513,7 @@
     	<td colspan="12"><strong>1111111000011011<sub>2</sub></strong></td>
     </tr>
 </table>
-
 **Answer:** 1111 1110 0001 1011<sub>2</sub>
+
+
 
