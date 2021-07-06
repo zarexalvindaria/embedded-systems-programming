@@ -153,7 +153,8 @@
         <td colspan="3"><strong>427<sub>10</sub></strong></td>
     </tr>
 </table>
-**Answer:** 427<sub>10</sub>
+
+<strong>Answer:</strong> 427<sub>10</sub>
 
 
 
