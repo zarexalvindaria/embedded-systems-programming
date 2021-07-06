@@ -393,13 +393,59 @@
         <td colspan="16"><strong>6CB7<sub>16</sub></strong></td>
 	</tr>
 </table>
-
 **Answer:** 6CB7<sub>16</sub>
 
 
 
 
 9. **3456<sub>8</sub>**
+
+<table>
+    <tr style="align-text:center">
+        <th><strong>Octal</strong></th>
+        <th colspan="3"><strong>3</strong></th>
+        <th colspan="3"><strong>4</strong></th>
+        <th colspan="3"><strong>5</strong></th>
+        <th colspan="3"><strong>6</strong></th>
+    </tr>
+    <tr>
+        <td><strong>Place values</strong></td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong></strong></td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td><strong>Binary</strong></td>
+    	<td colspan="12"><strong>011100101110<sub>2</sub></strong></td>
+    </tr>
+</table>
+
+**Answer:** 111 0010 11102<sub>2</sub>
+
 
 
 10. **FE1B<sub>16</sub>**
