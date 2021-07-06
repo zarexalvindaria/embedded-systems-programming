@@ -108,13 +108,13 @@
         <td colspan="3">7*16</td>
         <td colspan="4">11*1</td>
     </tr>
-    <tr style="text-align:center">
-        <td rowspan="2"><strong>Decimal</strong></td>
-        <td colspan="3">112</td>
-        <td colspan="4">11</td>
+    <tr>
+        <td style="text-align:center" rowspan="2"><strong>Decimal</strong></td>
+        <td style="text-align:center" colspan="3">112</td>
+        <td style="text-align:center" colspan="4">11</td>
     </tr>
-    <tr style="text-align:center">
-    	<td colspan="7" style="text-align:center">123<sub>10</sub></td>
+    <tr>
+    	<td style="text-align:center" colspan="7">123<sub>10</sub></td>
     </tr>
 </table>
 
