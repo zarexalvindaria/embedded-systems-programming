@@ -30,7 +30,7 @@
 |  498/8   |    6     |     1     |
 |   6/8    |    0     |     6     |
 
-**Answer: ** 616<sub>8</sub> <em>(Read remainder from the bottom)</em>
+**Answer:** 616<sub>8</sub> <em>(Read remainder from the bottom)</em>
 
 
 
