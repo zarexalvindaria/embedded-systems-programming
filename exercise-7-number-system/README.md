@@ -132,19 +132,19 @@
         <th>8<sup>0</sup></th>
     </tr>
     <tr>
-        <td>Octal</td>
+        <td><strong>Octal</strong></td>
         <td>6</td>
         <td>5</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>Conversion</td>
+        <td><strong>Conversion</strong></td>
         <td>6 * 8<sup>2</sup></td>
         <td>5 * 8<sup>1</sup></td>
         <td>3 * 8<sup>0</sup></td>
     </tr>
     <tr>
-      	<td rowspan="2">Decimal</td>
+      	<td rowspan="2"><strong>Decimal</strong></td>
         <td>384</td>
         <td>40</td>
         <td>3</td>
@@ -153,27 +153,59 @@
         <td colspan="3"><strong>427<sub>10</sub></strong></td>
     </tr>
 </table>
-
 <strong>Answer:</strong> 427<sub>10</sub>
 
 
+6. **E1D<sub>16 </sub>&rarr;** 3613<sub>10</sub> 
+
+<table>
+    <tr>
+        <th>Place values</th>
+        <th>16<sup>2</sup></th>
+        <th>16<sup>1</sup></th>
+        <th>16<sup>0</sup></th>
+    </tr>
+    <tr>
+        <td><strong>Hexa</strong></td>
+        <td>E</td>
+        <td>1</td>
+        <td>D</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><strong>Conversion</strong></td>
+        <td>14</td>
+        <td>1</td>
+        <td>13</td>
+    </tr>
+     <tr>
+        <td>14 * 16<sup>2</sup></td>
+        <td>1 * 16<sup>1</sup></td>
+        <td>13 * 16<sup>0</sup></td>
+    </tr>
+    <tr>
+      	<td rowspan="2"><strong>Decimal</strong></td>
+        <td>3584</td>
+        <td>16</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>3613<sub>10</sub></strong></td>
+    </tr>
+</table>
+
+<strong>Answer:</strong> 3613<sub>10</sub>
 
 
 
-6. E1D<sub>16</sub>
 
-   
+7. **111010100011<sub>2</sub>**
 
-7. 111010100011<sub>2</sub>
 
-   
 
 8. 110110010110111<sub>2</sub>
 
-   
 
 9. 3456<sub>8</sub>
 
-   
 
 10. FE1B<sub>16</sub>
