@@ -114,7 +114,7 @@
         <td colspan="4">11</td>
     </tr>
     <tr style="text-align:center">
-    	<td colspan="7">123<sub>10</sub></td>
+    	<td colspan="7" style="text-align:center">123<sub>10</sub></td>
     </tr>
 </table>
 
