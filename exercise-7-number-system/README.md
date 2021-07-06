@@ -47,7 +47,77 @@
 
 
 
-4. **1111011<sub>2</sub>**
+4. **1111011<sub>2</sub>** &rarr; 123<sub>10</sub>
+
+<table>
+    <tr style="text-align:center">
+    	<th>Place values</th>
+        <th colspan="3">16<sup>1</sup></th>
+        <th colspan="4">16<sup>0</sup></th>
+    </tr>
+    <tr style="text-align:center">
+        <td></td>
+        <td>4</td>
+        <td>2</td>
+		<td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr style="text-align:center">
+        <td rowspan="3"><strong>Binary</strong></td>
+        <td>4</td>
+        <td>2</td>
+		<td>1</td>
+        <td>8</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr style="text-align:center">
+        <td>4*1</td>
+        <td>2*1</td>
+		<td>1*1</td>
+        <td>8*1</td>
+        <td>4*0</td>
+        <td>2*1</td>
+        <td>1*1</td>
+    </tr>
+    <tr style="text-align:center">
+        <td>4</td>
+        <td>2</td>
+		<td>1</td>
+        <td>8</td>
+        <td>0</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr style="text-align:center">
+        <td></td>
+        <td colspan="3">7</td>
+        <td colspan="4">11</td>
+    </tr>
+    <tr style="text-align:center">
+        <td></td>
+        <td colspan="3">7*16<sup>1</sup></td>
+        <td colspan="4">11*16<sup>0</sup></td>
+    </tr>
+    <tr style="text-align:center">
+        <td></td>
+        <td colspan="3">7*16</td>
+        <td colspan="4">11*1</td>
+    </tr>
+    <tr style="text-align:center">
+        <td rowspan="2"><strong>Decimal</strong></td>
+        <td colspan="3">112</td>
+        <td colspan="4">11</td>
+    </tr>
+    <tr style="text-align:center">
+    	<td colspan="7">123<sub>10</sub></td>
+    </tr>
+</table>
+**Answer:** 123<sub>10</sub>
 
 
 
