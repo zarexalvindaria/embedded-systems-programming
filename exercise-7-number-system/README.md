@@ -153,7 +153,8 @@
         <td colspan="3"><strong>427<sub>10</sub></strong></td>
     </tr>
 </table>
-<strong>Answer:</strong> 427<sub>10</sub>
+
+<strong>Answer:</strong> 427<sub>10</sub><br/>
 
 
 6. **E1D<sub>16 </sub>&rarr;** 3613<sub>10</sub> 
@@ -193,7 +194,7 @@
     </tr>
 </table>
 
-<strong>Answer:</strong> 3613<sub>10</sub>
+<strong>Answer:</strong> 3613<sub>10</sub><br/>
 
 
 
