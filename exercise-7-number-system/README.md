@@ -122,9 +122,40 @@
 
 
 
-5. **653<sub>8</sub>**
+5. **653<sub>8</sub>** &rarr; **427<sub>10</sub>**
 
-   
+<table>
+    <tr>
+        <th>Place values</th>
+        <th>8<sup>2</sup></th>
+        <th>8<sup>1</sup></th>
+        <th>8<sup>0</sup></th>
+    </tr>
+    <tr>
+        <td>Octal</td>
+        <td>6</td>
+        <td>5</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Conversion</td>
+        <td>6 * 8<sup>2</sup></td>
+        <td>5 * 8<sup>1</sup></td>
+        <td>3 * 8<sup>0</sup></td>
+    </tr>
+    <tr>
+      	<td rowspan="2">Decimal</td>
+        <td>384</td>
+        <td>40</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>427<sub>10</sub></strong></td>
+    </tr>
+</table>
+**Answer:** 427<sub>10</sub>
+
+
 
 6. E1D<sub>16</sub>
 
